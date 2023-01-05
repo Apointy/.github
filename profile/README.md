@@ -1,4 +1,4 @@
-### Hice to meet you!
+### Nice to meet you!
 
 Our [Mobile application](http://apointy.ru)
 
